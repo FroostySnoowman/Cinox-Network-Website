@@ -1,0 +1,1 @@
+const swap = new Swup()
